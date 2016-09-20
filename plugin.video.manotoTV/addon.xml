@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.manoto"
+<addon id="plugin.video.manotoTV"
        name="Manoto TV"
        version="3.0.0"
        provider-name="Sam Hosse (Blue Streaming)">
