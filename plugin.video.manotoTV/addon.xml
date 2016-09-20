@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.manotoTV"
+<addon id="plugin.video.manoto"
        name="Manoto TV"
-       version="1.3.1"
-       provider-name="Sam Hosse Blue Innovations">
+       version="3.0.0"
+       provider-name="Sam Hosse (Blue Streaming)">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.python" version="2.14.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource"
@@ -12,8 +12,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Manoto TV</summary>
-    <description>Manoto TV Addon for XBMC</description>
+    <summary>Watch online Manoto TV</summary>
+    <description>Thanks to Manoto TV</description>
     <platform>all</platform>
     <language>fa</language>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
