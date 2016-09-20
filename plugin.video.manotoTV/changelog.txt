@@ -1,22 +1,22 @@
-[B]Ver 3.0.0[/B]-- 20/09/2016
+[B]Ver 3.0.0[/B] -- 20/09/2016
 link updated
 
-[B]Ver 2.2.0[/B]-- 28/06/2016
+[B]Ver 2.2.0[/B] -- 28/06/2016
 update the domain name
 SSL certificate sorted
 
-[B]Ver 2.1.0[/B]-- 20/04/2016
+[B]Ver 2.1.0[/B] -- 20/04/2016
 streams require authentication
 
 
-[B]Ver 2.0.0[/B]-- 17/04/2016
+[B]Ver 2.0.0[/B] -- 17/04/2016
 login not required anymore
 
 
-[B]Ver 1.1.0[/B]-- 28/02/2016
+[B]Ver 1.1.0[/B] -- 28/02/2016
 Link updated  
 
-[B]Ver 1.0.0[/B]-- 20/02/2016
+[B]Ver 1.0.0[/B] -- 20/02/2016
 initial instalation
 
 Thanks to Manoto TV Team
