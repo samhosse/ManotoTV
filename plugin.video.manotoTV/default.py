@@ -2,11 +2,11 @@ import urllib,urllib2,re,os,cookielib,string
 import xbmcplugin,xbmcgui,xbmcaddon
 from BeautifulSoup import BeautifulSoup
 
-addon = xbmcaddon.Addon('plugin.video.manoto')
+addon = xbmcaddon.Addon('plugin.video.manotoTV')
 profile = xbmc.translatePath(addon.getAddonInfo('profile'))
 
 
-__settings__ = xbmcaddon.Addon(id='plugin.video.manoto')
+__settings__ = xbmcaddon.Addon(id='plugin.video.manotoTV')
 __language__ = __settings__.getLocalizedString
 
 home = __settings__.getAddonInfo('path')
